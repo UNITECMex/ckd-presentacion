@@ -1,0 +1,7 @@
+Coloca aquí un archivo PNG 700x900 transparente con cada uno de los siguientes nombres:
+administracion-de-empresas.png
+administracion-hotelera-y-turismo.png
+ciencias-de-la-educacion.png
+derecho.png
+diseno-animacion-digital-y-publicidad.png
+ingenieria-mecanica-automotriz-y-motocicletas.png

@@ -1,0 +1,3 @@
+Las fotografías de TEC Mexiquense y UBC entregadas el 27 de octubre de 2026 ya están integradas en fotos/.
+Para otras marcas, utilizar los nombres descritos en el bloque gallery de contenido.js.
+Para Plantel Toluca falta confirmar dirección y teléfono.

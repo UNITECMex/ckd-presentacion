@@ -1,0 +1,57 @@
+GUÍA PARA AGREGAR STICKERS PNG / CKD V4
+
+No necesitas cambiar el código. Copia cada sticker PNG de una persona a la ruta que se indica aquí.
+Ideal: PNG de 700 x 900 píxeles, fondo transparente; diseño tipo sticker sin letras.
+Conserva exactamente el nombre y la extensión .png.
+La carrera aparecerá automáticamente en su tarjeta al abrir la presentación.
+
+UNIVERSIDAD TEC MEXIQUENSE
+
+LICENCIATURA:
+  Administración  ->  fotos/stickers/tec/licenciatura/administracion.png
+  Administración de Empresas  ->  fotos/stickers/tec/licenciatura/administracion-de-empresas.png
+  Arquitectura  ->  fotos/stickers/tec/licenciatura/arquitectura.png
+  Ciencias del Deporte  ->  fotos/stickers/tec/licenciatura/ciencias-del-deporte.png
+  Ciencias del Deporte y Gestión Deportiva  ->  fotos/stickers/tec/licenciatura/ciencias-del-deporte-y-gestion-deportiva.png
+  Comunicación Digital con Enfoque en Creación de Contenidos  ->  fotos/stickers/tec/licenciatura/comunicacion-digital-con-enfoque-en-creacion-de-contenidos.png
+  Comunicación y Relaciones Públicas  ->  fotos/stickers/tec/licenciatura/comunicacion-y-relaciones-publicas.png
+  Contabilidad y Finanzas  ->  fotos/stickers/tec/licenciatura/contabilidad-y-finanzas.png
+  Criminología y Criminalística  ->  fotos/stickers/tec/licenciatura/criminologia-y-criminalistica.png
+  Derecho  ->  fotos/stickers/tec/licenciatura/derecho.png
+  Diseño Gráfico  ->  fotos/stickers/tec/licenciatura/diseno-grafico.png
+  Enfermería  ->  fotos/stickers/tec/licenciatura/enfermeria.png
+  Gastronomía  ->  fotos/stickers/tec/licenciatura/gastronomia.png
+  Ingeniería Ambiental  ->  fotos/stickers/tec/licenciatura/ingenieria-ambiental.png
+  Ingeniería Industrial  ->  fotos/stickers/tec/licenciatura/ingenieria-industrial.png
+  Mercadotecnia  ->  fotos/stickers/tec/licenciatura/mercadotecnia.png
+  Música, Producción e Iluminación de Escenarios  ->  fotos/stickers/tec/licenciatura/musica-produccion-e-iluminacion-de-escenarios.png
+  Negocios Internacionales  ->  fotos/stickers/tec/licenciatura/negocios-internacionales.png
+  Pedagogía  ->  fotos/stickers/tec/licenciatura/pedagogia.png
+  Psicopedagogía  ->  fotos/stickers/tec/licenciatura/psicopedagogia.png
+  Seguridad Pública y Protección Civil  ->  fotos/stickers/tec/licenciatura/seguridad-publica-y-proteccion-civil.png
+
+MAESTRÍA:
+  Administración Pública y Gobierno  ->  fotos/stickers/tec/maestria/administracion-publica-y-gobierno.png
+  Administración de Instituciones de Salud  ->  fotos/stickers/tec/maestria/administracion-de-instituciones-de-salud.png
+  Alta Dirección  ->  fotos/stickers/tec/maestria/alta-direccion.png
+  Ciencias Forenses y Periciales  ->  fotos/stickers/tec/maestria/ciencias-forenses-y-periciales.png
+  Derecho Procesal Civil y Mercantil  ->  fotos/stickers/tec/maestria/derecho-procesal-civil-y-mercantil.png
+  Dirección, Administración y Gestión en Enfermería  ->  fotos/stickers/tec/maestria/direccion-administracion-y-gestion-en-enfermeria.png
+  Docencia en Enfermería  ->  fotos/stickers/tec/maestria/docencia-en-enfermeria.png
+  Educación  ->  fotos/stickers/tec/maestria/educacion.png
+  Gestión y Administración en Salud Pública  ->  fotos/stickers/tec/maestria/gestion-y-administracion-en-salud-publica.png
+  Gestión y Dirección del Deporte  ->  fotos/stickers/tec/maestria/gestion-y-direccion-del-deporte.png
+  Habilidades Directivas  ->  fotos/stickers/tec/maestria/habilidades-directivas.png
+  Imagen Pública  ->  fotos/stickers/tec/maestria/imagen-publica.png
+  Juicios Orales  ->  fotos/stickers/tec/maestria/juicios-orales.png
+  Peritaje Social  ->  fotos/stickers/tec/maestria/peritaje-social.png
+  Publicidad Digital y Comercio Electrónico  ->  fotos/stickers/tec/maestria/publicidad-digital-y-comercio-electronico.png
+
+DOCTORADO:
+  Administración y Alta Dirección  ->  fotos/stickers/tec/doctorado/administracion-y-alta-direccion.png
+  Administración y Gestión de Hospitales  ->  fotos/stickers/tec/doctorado/administracion-y-gestion-de-hospitales.png
+  Derecho  ->  fotos/stickers/tec/doctorado/derecho.png
+  Educación  ->  fotos/stickers/tec/doctorado/educacion.png
+
+UNIVERSIDAD UBC: la misma estructura de carpetas ya está preparada.
+Cuando recibamos el catálogo oficial de UBC, generaremos automáticamente su lista exacta de nombres de imagen.

@@ -1,0 +1,5 @@
+Coloca aquí un archivo PNG 700x900 transparente con cada uno de los siguientes nombres:
+derecho-administrativo.png
+educacion-y-docencia-basada-en-competencias-y-gestion-en-tecnologia-educativa.png
+ingenieria-financiera-y-gubernamental.png
+redes-de-comercio-y-negocios-digitales.png
